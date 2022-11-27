@@ -1,0 +1,113 @@
+{
+  "name": "AUGMENTED HUMAN",
+  "children": [
+    {
+      "name": "MIND",
+      "color": "#f0ac02",
+      "children": [
+        { "name": "Memory", "color": "#C7EAFB" },
+        { "name": "Brain Power", "children": [{ "name": "Problem Solving" }] },
+        { "name": "Language" },
+        { "name": "Patience" },
+        { "name": "Wealth Creation", "children": [
+            { "name": "Sales" },
+            { "name": "Copywrite" },
+            { "name": "Marketing" }
+          ]},
+        { "name": "Knowledge", "children": [
+            {
+              "name": "Nature",
+              "children": [
+                {
+                  "name": "Wayfinding",
+                  "children": [
+                    {
+                      "name": "Water",
+                      "children": [{ "name": "River" }, { "name": "Tides" }]
+                    },
+                    {
+                      "name": "Sky",
+                      "children": [
+                        { "name": "Clouds" },
+                        { "name": "Constellations" },
+                        { "name": "Wind" },
+                        { "name": "Sun" }
+                      ]
+                    },
+                    { "name": "Earth" }
+                  ]
+                },
+                {
+                  "name": "Food",
+                  "children": [
+                    { "name": "Hunting" },
+                    {
+                      "name": "Agriculture",
+                      "children": [
+                        { "name": "Regenerative" },
+                        { "name": "Aquaponics" },
+                        { "name": "Airponics" }
+                      ]
+                    },
+                    { "name": "Foraging" }
+                  ]
+                },
+                { "name": "Medice" }
+              ]
+            },
+            {
+              "name": "Human",
+              "children": [
+                {
+                  "name": "Anatomy",
+                  "children": [
+                    { "name": "Muscles" },
+                    { "name": "Bones" },
+                    { "name": "Connective Tissue" }
+                  ]
+                },
+                { "name": "Psychology" }
+              ]
+            }
+          ]}
+      ]
+    },
+    {
+      "name": "BODY",
+      "color": "#0279f0",
+      "children": [
+        { "name": "Strength" },
+        { "name": "Speed" },
+        { "name": "Energy Flow" ,
+        "children": [
+          { "name": "Chi Gung" }          
+        ]},
+        { "name": "Mobility" },
+        { "name": "Longevity" },
+        {
+          "name": "Resilience",
+          "children": [
+            { "name": "Temperature" },
+            { "name": "Pain" },
+            { "name": "Bone Strengthening" }
+          ]
+        },
+        { "name": "Endurance" }
+      ]
+    },
+    {
+      "name": "SOUL",
+      "color": "#7902f0",
+      "children": [
+        { "name": "Relationships" },
+        { "name": "Spirituality" },
+        { "name": "Self Reflection", "description": "Understanding the why of your thought proceses, and freeing yourself from programnming"},
+        { "name": "Love" ,
+        "children": [
+          { "name": "Kindness" },
+          { "name": "Understanding" }
+        ]}
+      ]
+    }
+  ]
+}
